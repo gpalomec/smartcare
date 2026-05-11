@@ -1,0 +1,23 @@
+"mensaje_principal": "Tu sistema PuntoZeroEVO está funcionando BIEN PERO PUEDE SER MEJOR.",
+"campanas": [
+        {
+            "titulo": "Control de inventarios avanzado",
+            "descripcion": "Mantén el control total de tu mercancía, evita mermas y nunca te quedes sin stock en los momentos clave.",
+            "icono": "inventory"
+        },
+        {
+            "titulo": "Reportes de ventas detallados",
+            "descripcion": "Conoce qué productos venden más, en qué horarios y qué clientes te compran mejor. Toma decisiones con datos reales.",
+            "icono": "chart"
+        },
+        {
+            "titulo": "Optimización de procesos",
+            "descripcion": "Reduce tiempos de atención, elimina errores de captura y agiliza tu operación diaria con configuraciones personalizadas.",
+            "icono": "optimize"
+        },
+        {
+            "titulo": "Asesoría personalizada",
+            "descripcion": "Nuestro equipo puede ayudarte a sacar el máximo provecho de tu sistema PuntoZero para hacer crecer tu negocio.",
+            "icono": "consult"
+        }
+    ]
